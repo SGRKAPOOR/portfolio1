@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sagar Kapoor</title>
+    <link>https://sgrkapoor.github.io/Portfolio/Projects/</link>
+    <description>Recent content in Projects on Sagar Kapoor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://sgrkapoor.github.io/Portfolio/Projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BNPL Loan Prediction with Interpretable Models</title>
+      <link>https://sgrkapoor.github.io/Portfolio/Projects/BNPL_Loan_Prediction_with_Interpretable_Models/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sgrkapoor.github.io/Portfolio/Projects/BNPL_Loan_Prediction_with_Interpretable_Models/</guid>
+      <description>This project delves into the world of loan prediction, specifically focusing on the burgeoning "Buy Now, Pay Later" (BNPL) phenomenon. The explosion of BNPL options has ignited concerns about responsible credit practices and potential debt accumulation. By leveraging machine learning models, we investigate the factors influencing loan outcomes in a BNPL context. The project not only predicts loan success or failure but also utilizes techniques like SHAP to understand the "why" behind model decisions. Comparing Decision Tree and Random Forest models,...</description>
+    </item>
+    
+    <item>
+      <title>Orders Data Analysis with Python and SQL</title>
+      <link>https://sgrkapoor.github.io/Portfolio/Projects/Orders_Data_Analysis_with_Python_and_SQL/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sgrkapoor.github.io/Portfolio/Projects/Orders_Data_Analysis_with_Python_and_SQL/</guid>
+      <description>This project demonstrates my proficiency in data analysis, combining the strengths of Python and SQL to unlock valuable insights from an orders dataset. I adeptly navigated data acquisition, cleaning, and transformation stages, ultimately loading the prepared data into a SQL Server database. Leveraging SQL queries, I explored sales trends, customer segmentation, and product performance, extracting knowledge for informed decision-making. This project solidified my ability to bridge the gap between data and actionable business strategies.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Global Video Game Sales</title>
+      <link>https://sgrkapoor.github.io/Portfolio/Projects/Prediction_of_Global_Video_Game_Sales/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sgrkapoor.github.io/Portfolio/Projects/Prediction_of_Global_Video_Game_Sales/</guid>
+      <description>In the ever-evolving world of video games, predicting sales success can be a daunting task. This project tackles this challenge head-on by leveraging the power of machine learning. We delve into a rich dataset from Kaggle, encompassing details like platforms, genres, release years, and regional sales figures for a multitude of games. By analyzing these intricate details, we aim to build robust models capable of accurately forecasting global video game sales. Our journey begins with data preprocessing, ensuring the data is clean and ready for analysis. We then unleash a suite of regression algorithms...</description>
+    </item>
+    
+  </channel>
+</rss>
