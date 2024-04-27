@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Portfolio on Sagar Kapoor</title>
+    <link>https://sgrkapoor.github.io/Portfolio/</link>
+    <description>Recent content in Data Analytics Portfolio on Sagar Kapoor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sgrkapoor.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BNPL Loan Prediction with Interpretable Models</title>
+      <link>https://sgrkapoor.github.io/Portfolio/Projects/BNPL_Loan_Prediction_with_Interpretable_Models/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sgrkapoor.github.io/Portfolio/Projects/BNPL_Loan_Prediction_with_Interpretable_Models/</guid>
+      <description>This project delves into the world of loan prediction, specifically focusing on the burgeoning "Buy Now, Pay Later" (BNPL) phenomenon. The explosion of BNPL options has ignited concerns about responsible credit practices and potential debt accumulation. By leveraging machine learning models, we investigate the factors influencing loan outcomes in a BNPL context. The project not only predicts loan success or failure but also utilizes techniques like SHAP to understand the "why" behind model decisions. Comparing Decision Tree and Random Forest models, we aim to identify 
+</description>
+    </item>
+    
+    <item>
+      <title>Orders Data Analysis with Python and SQL</title>
+      <link>https://sgrkapoor.github.io/Portfolio/Projects/Orders_Data%20Analysis_with_Python_and_SQL/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sgrkapoor.github.io/Portfolio/Projects/Orders_Data%20Analysis_with_Python_and_SQL/</guid>
+      <description>This project explores, analyzes, and derives insights from an orders dataset. It utilizes Python (Pandas) for data manipulation and cleaning, the Kaggle API for data acquisition, and SQL Server for data storage and querying.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Global Video Game Sales</title>
+      <link>https://sgrkapoor.github.io/Portfolio/Projects/Prediction_of_Global_Video_Game_Sales/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sgrkapoor.github.io/Portfolio/Projects/Prediction_of_Global_Video_Game_Sales/</guid>
+      <description>This is a project I did for my masters research paper, where I build a recommendation system for a movies dataset.
+The main reason behind carrying out this research was to understand how big tech companies recommend items to its users, companies like Amazon, Netflix, Spotify and many more use recommendation systems to recommend items to its users on a daily basis.
+Overview Recommendation system work on the principal of &amp;ldquo;homophily&amp;rdquo; which means similar users prefer similar items, this means that companies are able to accurately predict which users is most likely to buy something / watch something.</description>
+    </item>
+    
+    <item>
+      <title>Contact </title>
+      <link>https://sgrkapoor.github.io/Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sgrkapoor.github.io/Portfolio/contact/</guid>
+      <description>Follow me on these Social Media Platforms.
+   Platforms         Linkedin : https://www.linkedin.com/in/sagar-12kapoor/    Github : https://github.com/SGRKAPOOR    </description>
+    </item>
+    
+  </channel>
+</rss>
